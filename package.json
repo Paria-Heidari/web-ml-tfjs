@@ -4,7 +4,7 @@
   "description": "Tensorflow.js Project",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "author": "Paria",
   "license": "ISC",
