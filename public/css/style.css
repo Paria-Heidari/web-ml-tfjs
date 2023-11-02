@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+ 
+
+#nescss > .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+body {
+  padding: 0 2rem;
+  margin: 0 2rem;
+}
+
+#emotion-container img {
+  image-rendering: pixelated;
+  margin-bottom: 1rem;
+
+}
+
+#human-emotion-love {
+  display: flex;
+}
+
+#human-container {
+  display: inline-block;
+  width: 50%;
+}
+
+#emotion-container {
+  display: inline-block;
+  width: 50%;
+}
